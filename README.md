@@ -240,3 +240,6 @@ This repository serves as the official landing page for PrettyMay. The software 
 [![Download Latest Version](https://img.shields.io/badge/📥%20Download%20Latest%20Version-00b4d8?style=for-the-badge&logo=github&logoColor=white)](https://PrettyMay.net)
 
 **Get the most recent version of PrettyMay today!**
+
+---
+**Last updated:** 2026-09-10 16:52:09 UTC
